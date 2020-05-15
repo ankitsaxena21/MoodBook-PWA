@@ -1,0 +1,35 @@
+{
+  "name": "moodbook-pwa",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10"
+  },
+  "description": "A Progressive Web App to share your feelings.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "author": "Ankit Saxena",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^1.7.0",
+    "busboy": "^0.3.1",
+    "cors": "^2.8.5",
+    "firebase-admin": "^8.12.1",
+    "firebase-functions": "^3.6.1",
+    "formidable": "^1.2.2",
+    "uuid-v4": "^0.1.0",
+    "web-push": "^3.4.4"
+  }
+}
