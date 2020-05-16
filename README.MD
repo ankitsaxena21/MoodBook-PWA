@@ -2,9 +2,6 @@
 
 MoodBook is a progressive web app(PWA) built with vanilla javascript. It have features like push notification, background synchronization, offline support and much more.
 
-
-![screenshot](https://github.com/ankitsaxena21/MoodBook-PWA/blob/master/Screenshot_20200516-060522.png)
-
 ## Getting Started
 
 ### Prerequisites
